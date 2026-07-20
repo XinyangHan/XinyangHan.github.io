@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an **AI PhD** at [BAIR](https://bair.berkeley.edu/), UC Berkeley. I design benchmarks that measure whether AI agents can do long-horizon, economically valuable work, and study how agents can close the gaps those benchmarks expose.
+I am an **AI PhD** at [BAIR](https://bair.berkeley.edu/), UC Berkeley. I design benchmarks for long-horizon, economically valuable work by AI agents, and study how agents can close the capability gaps those benchmarks reveal.
 
 ## Research Interests
 
@@ -26,6 +26,11 @@ I am an **AI PhD** at [BAIR](https://bair.berkeley.edu/), UC Berkeley. I design 
 - **[2026]** Organizing the [Workshop on Agent Behavior](https://www.aiagentbehavior.com/) at COLM 2026, supported by Anthropic, Google, and OpenAI.
 - **[2025]** Served as the Logistics Chair for CHIL 2025.
 - **[Apr 2024]** [SAP3D](https://sap3d.github.io/) is accepted to CVPR 2024 as a **Highlight**.
+
+## Selected Talks
+
+- **Agents’ Last Exam: Evaluating AI Agents on Real Work** — Snorkel AI, UC Berkeley, Kimi AI, WebAgentLab, and Valkyrie AI (Jun–Jul 2026)
+- **3D Foundation Models for Generation and Reconstruction** — ICT Turing Class (Jul 2024)
 
 {% include_relative _includes/publications.md %}
 
