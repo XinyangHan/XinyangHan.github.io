@@ -29,8 +29,8 @@ I am an **AI PhD** at [BAIR](https://bair.berkeley.edu/), UC Berkeley. I design 
 
 ## Selected Talks
 
-- **Agents’ Last Exam: Evaluating AI Agents on Real Work** — Snorkel AI, UC Berkeley, Kimi AI, WebAgentLab, and Valkyrie AI (Jun–Jul 2026)
-- **3D Foundation Models for Generation and Reconstruction** — ICT Turing Class (Jul 2024)
+- **Agents’ Last Exam: Evaluating AI Agents on Real Work**, presented at Snorkel AI, UC Berkeley, Kimi AI, WebAgentLab, and Valkyrie AI (June and July 2026)
+- **3D Foundation Models for Generation and Reconstruction**, presented to the ICT Turing Class (July 2024)
 
 {% include_relative _includes/publications.md %}
 
