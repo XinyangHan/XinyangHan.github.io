@@ -15,14 +15,14 @@ I am an **AI PhD** at [BAIR](https://bair.berkeley.edu/), UC Berkeley. I design 
 
 ## News
 
+- **[Jul 2026]** OpenAI reports [GPT-5.6](https://openai.com/index/gpt-5-6/) results on [Agents’ Last Exam](https://agents-last-exam.org/) to evaluate long-horizon professional work.
 - **[Jun 2026]** [MLS-Bench](https://mls-bench.com/) is accepted to the **AI for Math Workshop at ICML 2026**.
-- **[Jun 2026]** Agents’ Last Exam is covered by [VentureBeat](https://venturebeat.com/technology/surprise-upset-gpt-5-5-beats-claude-fable-5-on-brutal-new-agents-last-exam-benchmark), [Don’t Worry About the Vase](https://thezvi.substack.com/p/ai-172-the-first-fable), [AINews](https://news.smol.ai/issues/26-06-09-anthropic-claude-fable-5), and [Digg](https://digg.com/ai/7f6dnk0l).
-- **[Jun 2026]** Agents’ Last Exam is the **#1 paper of the month on [Hugging Face](https://huggingface.co/papers/month/2026-06)** and **#1 trending on [alphaXiv](https://www.alphaxiv.org/abs/2606.05405)**.
-- **[Jun 2026]** [Agents’ Last Exam](https://agents-last-exam.org) is out: a living benchmark of long-horizon, economically valuable tasks drawn from real professional work.
+- **[Jun 2026]** [Agents’ Last Exam](https://agents-last-exam.org/) is out and has grown to **1,500+ tasks across 55 sub-industries**, developed with **300+ experts**.
+- **[Jun 2026]** Agents’ Last Exam is the **#1 paper of the month on [Hugging Face](https://huggingface.co/papers/month/2026-06)** and **#1 trending on [alphaXiv](https://www.alphaxiv.org/abs/2606.05405)**, with coverage from [VentureBeat](https://venturebeat.com/technology/surprise-upset-gpt-5-5-beats-claude-fable-5-on-brutal-new-agents-last-exam-benchmark), [Don’t Worry About the Vase](https://thezvi.substack.com/p/ai-172-the-first-fable), [AINews](https://news.smol.ai/issues/26-06-09-anthropic-claude-fable-5), and [Digg](https://digg.com/ai/7f6dnk0l).
 - **[May 2026]** [JobBench](https://job-bench.github.io/) is released, asking which work people actually want to delegate to agents.
 - **[May 2026]** [MLS-Bench](https://mls-bench.com/) is released, testing whether AI systems can build better AI.
-- **[2026]** Glad to serve as the Communications Chair for [CHIL 2026](https://chil.ahli.cc/organizers/).
-- **[2026]** Organizing the [Workshop on Agent Behavior](https://www.aiagentbehavior.com/) at COLM 2026.
+- **[2026]** Served as the Communications Chair for [CHIL 2026](https://chil.ahli.cc/organizers/).
+- **[2026]** Organizing the [Workshop on Agent Behavior](https://www.aiagentbehavior.com/) at COLM 2026, supported by Anthropic, Google, and OpenAI.
 - **[2025]** Served as the Logistics Chair for CHIL 2025.
 - **[Apr 2024]** [SAP3D](https://sap3d.github.io/) is accepted to CVPR 2024 as a **Highlight**.
 
